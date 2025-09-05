@@ -1,0 +1,15 @@
+ALDI GB REPLENISHMENT OPTIMISATION TEAM INTERNAL USE LICENSE
+
+Copyright (c) 2025 ALDI GB Replenishment Optimisation Team
+
+Permission is hereby granted, free of charge, to the ALDI GB Replenishment Optimisation Team (hereafter referred to as "the Team") to use, copy, modify, and distribute this software and its documentation solely for the internal purposes of the Team.
+
+Restrictions:
+1. This software and any derivatives thereof are for internal use only by the Team.
+2. Redistribution, sublicensing, or other use outside the Team is strictly prohibited without prior written permission from ALDI GB management.
+3. The software is provided "as is", without warranty of any kind, express or implied.
+
+By using this software, the Team agrees to these terms.
+
+2025
+ALDI GB Replenishment Optimisation Team
